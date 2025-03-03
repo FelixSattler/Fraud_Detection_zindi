@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# data files
+data/client_test.csv
+data/client_train.csv
+data/invoice_test.csv
+data/invoice_train.csv
